@@ -2,7 +2,7 @@
 ## Six Nights With Lopi (SNWL)  
 A fan game made by Daftblock for Lopi, and her community  
   
-This is the preDev build at the moment  
+This is the PreDev build at the moment  
   
 links to creator:  
   
