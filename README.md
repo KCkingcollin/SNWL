@@ -7,6 +7,7 @@ This is the PreDev build at the moment
 links to creator:  
   
 https://daftblock-dev.itch.io/fnaffalopi  
+https://gamejolt.com/games/punkalopi/772505
 https://gamejolt.com/@bloxgamesdev  
 discord: daftblock#1987  
 https://www.twitch.tv/daftblock  
